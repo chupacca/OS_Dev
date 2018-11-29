@@ -1,7 +1,5 @@
 /**
-Peter Chu
-Assignment 2 - Process Reporter Kernel Module
-TCSS 422 A - OS
+Process Reporter Kernel Module
 **/
 
 ///////////////////////////////////////////
