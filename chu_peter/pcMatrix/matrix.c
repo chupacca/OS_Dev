@@ -1,13 +1,3 @@
-/*
- *  Matrix task processor - matrix module
- *  Based on Operating Systems: Three Easy Pieces by R. Arpaci-Dusseau and A. Arpaci-Dusseau
- * 
- *  Wes J. Lloyd
- *  University of Washington, Tacoma
- *  TCSS 422 - Operating Systems
- *  Winter 2018
- */
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <pthread.h>
