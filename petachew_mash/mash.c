@@ -1,9 +1,3 @@
-/**
-Peter Chu
-Operating Systems
-Assignment1: Mash Script
-**/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
