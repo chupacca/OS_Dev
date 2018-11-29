@@ -1,8 +1,3 @@
-/**
-Peter Chu
-*/
-
-
 #define MAX_SIZE 250
 
 typedef struct __bounded_buff {
