@@ -1,5 +1,5 @@
 # Operating-Systems
-Projects kernel coding on the Ubuntu Linux Operating System
+Kernel coding on the Linux
 
 The procReport & pcMatrix deals with interacting with the linux processes from the kernel level.
 
