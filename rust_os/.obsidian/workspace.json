@@ -42,16 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "bdde8e8a32a2e9f7",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -178,10 +171,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b1038f2e9dae488a",
+  "active": "e5c00bdc6841874a",
   "lastOpenFiles": [
-    "Markdown Cheatsheet.md",
     "Cargo Build Details.md",
+    "Markdown Cheatsheet.md",
     "blog_excerpts/2 - A Minimal Rust Kernel.md",
     "blog_excerpts/1 - A Freestanding Rust Binary.md",
     "images/qemu_vga_hello_world.png"
