@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "24154af423cf58ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "a830d3bb324685ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1038f2e9dae488a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cargo Build Details.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dbbff3a826be140d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog_excerpts/1 - A Freestanding Rust Binary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e5c00bdc6841874a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cargo Build Details.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bdde8e8a32a2e9f7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bf8b824e968dff2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "0978ec23764eb35b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae0f8b43246aba2b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cddabccda830e4bc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fa425b77c1bb617b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0afbd4f37d669798",
+    "type": "split",
+    "children": [
+      {
+        "id": "4fbfd9fdb4a4a476",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3186f9438c240b1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cargo Build Details.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "25a69fcc0edfc4ea",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Cargo Build Details.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "78f7726666de913f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d01a11450845fe23",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Cargo Build Details.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b1038f2e9dae488a",
+  "lastOpenFiles": [
+    "Markdown Cheatsheet.md",
+    "Cargo Build Details.md",
+    "blog_excerpts/2 - A Minimal Rust Kernel.md",
+    "blog_excerpts/1 - A Freestanding Rust Binary.md",
+    "images/qemu_vga_hello_world.png"
+  ]
+}
