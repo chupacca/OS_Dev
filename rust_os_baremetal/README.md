@@ -1,4 +1,4 @@
-i### How to Build and Emulate this code:
+### How to Build and Emulate this code:
 **Go into `code` directory:**
 ```bash
 cd os_dev/rust_os/code
