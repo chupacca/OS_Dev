@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog_excerpts/1 - A Freestanding Rust Binary.md",
+                "file": "Cargo Build Details.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog_excerpts/1 - A Freestanding Rust Binary.md",
+                "file": "Cargo Build Details.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog_excerpts/1 - A Freestanding Rust Binary.md",
+                "file": "Cargo Build Details.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog_excerpts/1 - A Freestanding Rust Binary.md"
+                "file": "Cargo Build Details.md"
               }
             }
           }
@@ -172,10 +172,10 @@
   },
   "active": "b1038f2e9dae488a",
   "lastOpenFiles": [
+    "blog_excerpts/1 - A Freestanding Rust Binary.md",
     "Cargo Build Details.md",
     "blog_excerpts/2 - A Minimal Rust Kernel.md",
     "blog_excerpts/3 - VGA Text Mode.md",
-    "blog_excerpts/1 - A Freestanding Rust Binary.md",
     "Markdown Cheatsheet.md",
     "images/qemu_vga_hello_world.png"
   ]

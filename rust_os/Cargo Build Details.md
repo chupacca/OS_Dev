@@ -39,6 +39,10 @@ channel="nightly"
 
 # (2) Build Commands
 
+**Go into `code` directory:**
+```bash
+cd os_dev/rust_os/code
+```
 **Build command:**
 ```bash
 cargo +nightly build --target x86_64-rust_os.json
