@@ -11,7 +11,8 @@ fn panic(_info: &PanicInfo) -> ! {
     loop {}
 }
 
-static HELLO: &[u8] = b"Hello World!";
+// The static string we're going to print via VGA
+static HELLO: &[u8] = b"WakaBacca";
 
 #[no_mangle] // don't mangle the name of this function
 pub extern "C" fn _start() -> ! {

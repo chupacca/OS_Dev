@@ -1,0 +1,7 @@
+cargo:rerun-if-changed=/home/chupac/Documents/notes/github/security/os_dev/rust_os/code/rust_os/Cargo.toml
+cargo:rustc-link-search=native=/home/chupac/Documents/notes/github/security/os_dev/rust_os/code/rust_os/target/bootimage/bootloader/x86_64-bootloader/release/build/bootloader-88371ebe0707341d/out
+cargo:rustc-link-lib=static=kernel_bin-rust_os
+cargo:rerun-if-env-changed=KERNEL
+cargo:rerun-if-env-changed=KERNEL_MANIFEST
+cargo:rerun-if-changed=/home/chupac/Documents/notes/github/security/os_dev/rust_os/code/rust_os/target/x86_64-rust_os/debug/rust_os
+cargo:rerun-if-changed=build.rs

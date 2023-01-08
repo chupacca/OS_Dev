@@ -215,7 +215,7 @@ Note that the entry point needs to be called `_start` regardless of your host OS
 
 We can now build the kernel for our new target by passing the name of the JSON file as `--target`:
 
-```
+```bash
 > cargo build --target x86_64-rust_os.json
 
 error[E0463]: can't find crate for `core`
@@ -362,9 +362,6 @@ Adding the bootloader as a dependency is not enough to actually create a bootabl
 
 To solve this problem, we created a tool named `bootimage` that first compiles the kernel and bootloader, and then links them together to create a bootable disk image. To install the tool, execute the following command in your terminal:
 
-```
-cargo install bootimage
-```
 **What I did:**
 ```bash
 cargo install bootimage --target x86_64-unknown-none
@@ -378,7 +375,7 @@ For running `bootimage` and building the bootloader, you need to have the `llvm-
 
 After installing `bootimage` and adding the `llvm-tools-preview` component, we can create a bootable disk image by executing:
 
-```
+```bash
 > cargo bootimage
 ```
 **What I did:**

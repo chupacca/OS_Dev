@@ -20,31 +20,30 @@
             }
           },
           {
-            "id": "dbbff3a826be140d",
+            "id": "50177d9f16f9eb41",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog_excerpts/1 - A Freestanding Rust Binary.md",
+                "file": "blog_excerpts/2 - A Minimal Rust Kernel.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e5c00bdc6841874a",
+            "id": "35c9740a1d3146e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cargo Build Details.md",
+                "file": "blog_excerpts/3 - VGA Text Mode.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,12 +170,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e5c00bdc6841874a",
+  "active": "b1038f2e9dae488a",
   "lastOpenFiles": [
-    "Cargo Build Details.md",
-    "Markdown Cheatsheet.md",
     "blog_excerpts/2 - A Minimal Rust Kernel.md",
+    "Cargo Build Details.md",
+    "blog_excerpts/3 - VGA Text Mode.md",
     "blog_excerpts/1 - A Freestanding Rust Binary.md",
+    "Markdown Cheatsheet.md",
     "images/qemu_vga_hello_world.png"
   ]
 }
